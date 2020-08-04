@@ -8,3 +8,9 @@
   text-align: center;
   color: #fff;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead__subtitle {
+    margin: 0 auto 56px;
+  }
+}

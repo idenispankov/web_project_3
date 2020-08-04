@@ -2,3 +2,10 @@
   width: 984px;
   height: 615px;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead__image {
+    width: 928px;
+    height: 580px;
+  }
+}

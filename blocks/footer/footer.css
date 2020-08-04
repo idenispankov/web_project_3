@@ -5,5 +5,11 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  margin: 0 0 24px;
+  margin: 0 auto 24px;
+}
+
+@media screen and (max-width: 1024px) {
+  .footer {
+    max-width: 928px;
+  }
 }
