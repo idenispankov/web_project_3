@@ -3,7 +3,6 @@
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: auto;
   margin: 0 0 80px;
-  border: 1px solid red;
 }
 
 .place:last-child {
@@ -13,5 +12,13 @@
 @media screen and (max-width: 1023px) {
   .place {
     max-width: 720px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place {
+    max-width: 320px;
+    grid-template-columns: 1fr;
+    margin-bottom: 48px;
   }
 }
