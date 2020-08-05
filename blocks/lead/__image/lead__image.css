@@ -3,9 +3,16 @@
   height: 615px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
   .lead__image {
     width: 928px;
     height: 580px;
+  }
+}
+
+@media screen and (max-width: 1279px) {
+  .lead__image {
+    width: 768px;
+    height: 480px;
   }
 }

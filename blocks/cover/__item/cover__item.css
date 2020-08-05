@@ -6,6 +6,7 @@
   justify-content: center;
   text-decoration: none;
   background-image: url(../../../images/cover__background.jpg);
+  background-position: center;
 }
 
 .cover__item:after {
@@ -23,8 +24,14 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
   .cover__item {
     height: 640px;
+  }
+}
+
+@media screen and (max-width: 1279px) {
+  .cover__item {
+    height: 480px;
   }
 }

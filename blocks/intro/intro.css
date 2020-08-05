@@ -7,3 +7,11 @@
   max-width: 690px;
   margin: 0 0 92px 148px;
 }
+
+@media screen and (max-width: 1023px) {
+  .intro {
+    margin-bottom: 88px;
+    max-width: 720px;
+    margin: 0 auto 88px;
+  }
+}
