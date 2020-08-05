@@ -4,5 +4,12 @@
   font-size: 16px;
   line-height: 163%;
   color: #fff;
+  max-width: 690px;
   margin: 0 0 32px;
+}
+
+@media screen and (max-width: 1023px) {
+  .intro__sub-text {
+    max-width: 720px;
+  }
 }
