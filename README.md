@@ -1,20 +1,21 @@
 # Project 3: From Portland to Portland
 
-### Overview
-* Intro
-* Figma
-* Images
+## Overview
+This project is about trip across USA.
+Contains pictures and useful links for make you trip more comfortable.
+Page is fully responsive, created using @media queries.
+Project were made using HTML5 & CSS3 languages in VScode editor.
+File structure and css selectors were written according 
+BEM (Block__Element_Modifier) methodology.
 
-**Intro**
+## 
+I did this project from scratch using design cereated in [Figma](https://www.figma.com). 
+[Figma](https://www.figma.com) is the collaborative interface design tool. 
+Design provided by [Practicum by Yandex](https://www.practicum.yandex.com) 
+during my study of Web Development Course. 
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
 
-**Figma**
+## Plans to update project:
 
-* [Link to the project on Figma](https://www.figma.com/file/xM9rNsdK4iNcFJmDZho3Aw/Sprint-3%3A-From-Portland-to-Portland-%2F-desktop-%2B-mobile?node-id=500%3A0)
-
-**Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-
-Good luck and have fun!
+1. May add some JavaScript in near future for more dynamic.
+2. Keep maintain and clean up a code.
