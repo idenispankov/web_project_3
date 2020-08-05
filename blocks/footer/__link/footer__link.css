@@ -6,6 +6,11 @@
   color: #fff;
   text-decoration: none;
   margin-right: 18px;
+  transition: opacity 0.5s linear;
+}
+
+.footer__link:hover {
+  opacity: 0.5;
 }
 
 @media screen and (max-width: 767px) {

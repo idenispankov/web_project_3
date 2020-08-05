@@ -4,4 +4,10 @@
   font-size: 18px;
   line-height: 22px;
   color: #fff;
+  transition: opacity 0.5s linear;
+}
+
+/* Is there any way to make a link line shirter whe hover? Thanks */
+.place__link:hover {
+  opacity: 0.5;
 }
