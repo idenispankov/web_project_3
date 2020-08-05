@@ -1,5 +1,5 @@
-# [Project 3: From Portland to Portland]
-* (https://idenispankov.github.io/web_project_3/)
+# Project 3: From Portland to Portland
+* https://idenispankov.github.io/web_project_3/
 
 ## Overview
 * This project is about trip across USA.
