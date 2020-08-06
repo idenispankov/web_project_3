@@ -10,7 +10,7 @@
 BEM (Block__Element_Modifier) methodology.
 
 ## 
-* I did this project from scratch using design cereated in [Figma](https://www.figma.com). 
+* I did this project from scratch using design created in [Figma](https://www.figma.com). 
 * [Figma](https://www.figma.com) is the collaborative interface design tool. 
 * Design provided by [Practicum by Yandex](https://www.practicum.yandex.com)  
 during my study of Web Development Course. 
