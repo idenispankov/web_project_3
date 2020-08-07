@@ -1,11 +1,3 @@
-@import url(./place/place.css);
-@import url(./place/__title/place__title.css);
-@import url(./place/__image/place__image.css);
-@import url(./place/__website/place__website.css);
-@import url(./place/__url-heading/place__url-heading.css);
-@import url(./place/__link/place__link.css);
-@import url(./place/__paragraph/place__paragraph.css);
-
 .places {
   max-width: 984px;
   margin: 0 auto 92px;

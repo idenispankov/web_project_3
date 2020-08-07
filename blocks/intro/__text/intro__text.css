@@ -14,3 +14,8 @@
   }
 }
 
+@media screen and (max-width: 767px) {
+  .intro__text {
+    line-height: 30px;
+  }
+}
